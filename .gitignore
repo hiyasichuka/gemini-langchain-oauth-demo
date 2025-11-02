@@ -1,0 +1,4 @@
+__pycache__/
+.uv/
+uv.lock
+client_secret.json
