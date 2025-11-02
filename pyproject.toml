@@ -14,10 +14,3 @@ dependencies = [
     "langchain-google-genai>=2.0.0",
     "langchain-core>=0.3.0",
 ]
-
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
-[tool.uv]
-dev-dependencies = []
